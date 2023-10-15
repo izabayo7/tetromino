@@ -1,7 +1,7 @@
 {
     "name": "tetromino",
     "version": "1.0.0",
-    "homepage": "https://reactgular.github.io/tetromino/",
+    "homepage": "/tetromino",
     "private": true,
     "scripts": {
         "start": "craco start",
